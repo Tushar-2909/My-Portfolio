@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "Title": "Talent AI",
+      "Description": "This is an AI-powered web application built with Next.js, Firebase Studio, and Genkit. The platform enables intelligent resume screening and job description generation through AI-driven workflows. The frontend is crafted using React, styled with Tailwind CSS, and enhanced with Shadcn UI components for a modern and responsive user experience.",
+      "Img": "/TalentAi.jpg",
+      "Link": "",
+      "Github": "https://github.com/Tushar-2909/Talent-AI",
+      "TechStack": [ "Next.js", "React",
+      "Tailwind CSS", "Shadcn UI",
+       "Genkit", "Firebase Studio",
+      " Vercel "],
+      "Features": [" AI Resume Screening: Analyze and evaluate resumes using predefined Genkit flows.",
+      " Job Description Generation: Generate optimized job descriptions with AI assistance.",
+      " Firebase Studio Integration: Scalable backend powered by Firebase services.",
+      "Genkit AI Flows: Modular, maintainable, and powerful AI flows for core logic.",
+      " Modern UI: Built with React, Tailwind CSS, and Shadcn UI for clean design and UX."
+      ]
+    },
+    {
+      "id": "2",
+      "Title": "Cryptography-Price prediction",
+      "Description": "This is the frontend interface for the Cryptocurrency Price Prediction using LSTM project. It is a web-based dashboard built with React.js that interacts with a backend API to display real-time and predicted cryptocurrency prices using an LSTM model.",
+      "Img": "/crypto.png",
+      "Link": "https://crypto-pred.netlify.app/",
+      "Github": "https://github.com/Tushar-2909/Cryptography-frontend",
+      "TechStack": [" Tailwind CSS / Material UI – Styling",
+
+     " Axios – API Requests",
+      
+      "Recharts – Data Visualization",
+      
+     " React Router – Routing"],
+      "Features": [ "Login Authentication (Optional)", "Live & Historical Price Charts",
+       "LSTM-based Future Price Predictions",
+       "Interactive Visualizations with Recharts",
+      "Real-time Updates via API",
+      " Modern, Futuristic UI using Tailwind CSS / Material UI"
+      
+      ]
+    }
+  ]
+  
